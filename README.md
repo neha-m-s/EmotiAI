@@ -26,7 +26,7 @@ EmotiAI is an AI-powered mental health chatbot designed to engage users in empat
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/emotiAI.git
-cd emotiAI
+cd EmotiAI
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
