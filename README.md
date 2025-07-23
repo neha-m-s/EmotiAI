@@ -1,18 +1,18 @@
-# EmotiAI: Emotion-Aware Mental Health Chatbot 🤖💬💙
+# EmotiAI: Emotion-Aware Mental Health Chatbot 
 
 EmotiAI is an AI-powered mental health chatbot designed to engage users in empathetic conversations using Cohere’s Command LLM and real-time emotion detection. Built with Streamlit, LangChain, and Hugging Face Transformers, EmotiAI offers emotionally intelligent responses for well-being support.
 
-## 🚀 Features
+## Features
 
-- 🧠 **LLM-Powered Conversations** using Cohere’s `command-xlarge` via LangChain
-- 😄 **Emotion Detection** via Hugging Face facial expression classification
-- 🗣️ **Intent-Aware Responses** using a custom JSON-based knowledge base
-- 🎨 **Interactive UI** built with Streamlit
-- 📦 **Lightweight and Fully Local** (no backend required)
+-  **LLM-Powered Conversations** using Cohere’s `command-xlarge` via LangChain
+-  **Emotion Detection** via Hugging Face facial expression classification
+-  **Intent-Aware Responses** using a custom JSON-based knowledge base
+-  **Interactive UI** built with Streamlit
+-  **Lightweight and Fully Local** (no backend required)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: Streamlit
 - **LLM**: Cohere Command (via LangChain)
@@ -21,7 +21,7 @@ EmotiAI is an AI-powered mental health chatbot designed to engage users in empat
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 # Clone the repo
